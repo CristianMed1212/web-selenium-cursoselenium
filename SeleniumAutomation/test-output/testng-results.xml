@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15927" started-at="2020-08-21T21:04:03 CDT" finished-at="2020-08-21T21:04:19 CDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15927" started-at="2020-08-21T21:04:03 CDT" finished-at="2020-08-21T21:04:19 CDT">
+      <class name="practica.CalcularRFCyCURP">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:practica.CalcularRFCyCURP@23faf8f2]" name="setUp" is-config="true" duration-ms="9676" started-at="2020-08-21T21:04:03 CDT" finished-at="2020-08-21T21:04:12 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testgenerarCURP()[pri:0, instance:practica.CalcularRFCyCURP@23faf8f2]" name="testgenerarCURP" duration-ms="6223" started-at="2020-08-21T21:04:12 CDT" finished-at="2020-08-21T21:04:19 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testgenerarCURP -->
+      </class> <!-- practica.CalcularRFCyCURP -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
